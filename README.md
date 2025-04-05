@@ -123,8 +123,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any queries or suggestions, please reach out to:
-- Email: paidiharika2575@gmail.com
-- LinkedIn: https://www.linkedin.com/in/harikapaidi/
+- Email: charansaikuna11640@gmail.com
+- LinkedIn: https://www.linkedin.com/in/charansaikuna/
 
 ---
 
