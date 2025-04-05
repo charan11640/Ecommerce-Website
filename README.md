@@ -66,7 +66,7 @@ E-CommerceWebsite/
 
 1. **Clone the repository**
    ```bash
-   git clone  
+   git clone https://github.com/charan11640/Ecommerce-Website  
    ```
 
 2. **Open the project**
